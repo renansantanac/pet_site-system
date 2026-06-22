@@ -29,3 +29,22 @@ This project was developed as a front-end practice exercise focused on improving
 - Responsive Design Principles  
 
 ---
+
+
+##  Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/your-username/petshop-website.git
+cd petshop-website
+open index.html
+📌 Future Improvements
+Online booking system
+Backend integration
+User authentication
+Admin panel for managing appointments
+
+
+Author,
+Renan S Celestino
